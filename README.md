@@ -6,8 +6,7 @@ This project serves as the final capstone for the Data Visualization Challenge, 
 
 The implementation demonstrates proficiency in the full Business Intelligence workflow, delivering a visually compelling, data-driven report adhering to a **Cinematic Dark Theme**. 
 
-[Image of a Power BI dashboard with a dark theme and cinematic visuals]
-
+![image_url](https://github.com/gajanan-nawle/Capstone-Project4-Transforming-EDAs-to-Dashboards/blob/e47fdd6fcafabac4cec63cfef597f4cacf4d8f09/Screenshot%202025-11-30%20083528.png)
 
 ---
 
