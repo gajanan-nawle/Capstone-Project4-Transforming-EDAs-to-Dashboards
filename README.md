@@ -1,12 +1,12 @@
 # 🌟 Capstone Project 4: Amazon Prime EDA Dashboard
 
+![image_url](https://github.com/gajanan-nawle/Capstone-Project4-Transforming-EDAs-to-Dashboards/blob/e47fdd6fcafabac4cec63cfef597f4cacf4d8f09/Screenshot%202025-11-30%20083528.png)
+
 ## Project Overview 🎯
 
 This project serves as the final capstone for the Data Visualization Challenge, focused on transforming analytical insights derived from a prior **Python Exploratory Data Analysis (EDA)** on **Amazon Prime Video titles and personnel** into a professional, interactive dashboard using **Power BI**.
 
 The implementation demonstrates proficiency in the full Business Intelligence workflow, delivering a visually compelling, data-driven report adhering to a **Cinematic Dark Theme**. 
-
-![image_url](https://github.com/gajanan-nawle/Capstone-Project4-Transforming-EDAs-to-Dashboards/blob/e47fdd6fcafabac4cec63cfef597f4cacf4d8f09/Screenshot%202025-11-30%20083528.png)
 
 ---
 
